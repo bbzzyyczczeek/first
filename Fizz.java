@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Fizz {
     public static void main(String[] args) {
-///tesr
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Podaj zakres liczb do sprawdzenia");
         int a = sc.nextInt();
